@@ -43,8 +43,8 @@ The program is a one page, standalone Angular application.
 
 
 ## Technologies
-* Angular - [Angular 13](https://blog.angular.io/angular-v13-is-now-available-cce66f7bc296)
-* Node.js - [Node.js 16.15.1](https://nodejs.org/en/)
+* Angular - [Angular 14.1.0]
+* Node.js - [Node.js 16.16.0]
 
 ## IDE 
 * Visual Studio Code - [VS Code](https://code.visualstudio.com/)
